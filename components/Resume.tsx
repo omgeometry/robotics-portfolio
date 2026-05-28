@@ -14,7 +14,7 @@ export default function Resume() {
 
         {/* Download Button */}
         <div className="flex flex-col sm:flex-row gap-4 justify-center mb-8">
-          <a
+          {/* <a
             href="/resume.pdf"
             target="_blank"
             rel="noopener noreferrer"
@@ -40,7 +40,7 @@ export default function Resume() {
               />
             </svg>
             View Resume
-          </a>
+          </a> */}
           <a
             href="/resume.pdf"
             download="Channing_Tan_Resume.pdf"
