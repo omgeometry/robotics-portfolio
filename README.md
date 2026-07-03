@@ -3,6 +3,7 @@
 A modern, lightweight portfolio website for a robotics and perception engineer. Built with Next.js, TypeScript, and Tailwind CSS.
 
 ## 🎯 Overview
+This website was made through the help of an AI agent, Claude Opus 4.7 through the openrouter API and CLINE extension to VSCode.
 
 This portfolio showcases:
 - **Robotics & Autonomy** projects (ROS2, VSLAM, autonomous systems)
